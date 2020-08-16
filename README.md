@@ -31,7 +31,7 @@ Ahora mismo estoy aprendiendo:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 
-Medio domino ya:
+Conozco ya:
 
 [![HTML](https://img.shields.io/badge/HTML_5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS_3-1572B6?style=flat-square&logo=CSS3&logoColor=white&labelColor=101010)]()
