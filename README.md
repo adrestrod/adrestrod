@@ -36,6 +36,6 @@ Medio domino ya:
 [![Twitter](https://img.shields.io/badge/Twitter-@AdrnEstvz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/AdrnEstvz)
 [![Instagram](https://img.shields.io/badge/Instagram-@adrnestvz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/adrnestvz)
 <br/>
-[![Reddit](https://img.shields.io/badge/Reddit-Haru_123-FF4500?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.reddit.com/user/Haru_123)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Adrian_Estevez_Rodriguez-FE7A16?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://es.stackoverflow.com/users/188411/haru)
+[![Reddit](https://img.shields.io/badge/Reddit-Haru_123-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=101010)](https://www.reddit.com/user/Haru_123)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Adrian_Estevez_Rodriguez-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=101010)](https://es.stackoverflow.com/users/188411/haru)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian_Estevez_Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adrian-estevez-rodriguez-101364183)
