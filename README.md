@@ -25,9 +25,9 @@ Ahora mismo estoy aprendiendo:
 
 Medio domino ya:
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=?style=flat&logo=appveyor&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=?style=flat&logo=appveyor&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=?style=flat&logo=appveyor&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=?style=for-the-badge&logo=appveyor&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=?style=for-the-badge&logo=appveyor&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=?style=for-the-badge&logo=appveyor&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=?style=flat&logo=appveyor&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## Mis redes:
