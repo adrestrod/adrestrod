@@ -1,5 +1,5 @@
 #  Hola! Me llamo Adrián Estévez 
-### SysAdmin y Programador Full-Stack
+### SysAdmin y Desarrollador Web/Móvil
 
 
 Soy un estudiante de Administración de Sistemas Informaticos en Red y aprendo programación por mi cuenta.
