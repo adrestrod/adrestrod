@@ -32,7 +32,6 @@ Ahora mismo estoy aprendiendo:
 
 ## Mis redes:
 
-[![Twitch](https://img.shields.io/badge/Twitch-Adrianestevez-9146FF?style=flat&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/adrianestevez)
 [![Twitter](https://img.shields.io/badge/Twitter-@AdrnEstvz-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/AdrnEstvz)
 [![Instagram](https://img.shields.io/badge/Instagram-@adrnestvz-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/adrnestvz)
 <br/>
