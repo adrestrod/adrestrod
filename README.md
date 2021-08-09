@@ -2,7 +2,7 @@
 ### SysAdmin y Desarrollador Web/Móvil
 
 
-Soy un estudiante de Administración de Sistemas Informaticos en Red y aprendo programación por mi cuenta.
+Soy un Administrador de Sistemas Informaticos en Red y aprendo programación por mi cuenta.
 
 Aquí tendrás el código de los pequeños proyectos o programas que se me ocurren mientras recorro los duros caminos de algunos de los lenguajes mas populares.
 
