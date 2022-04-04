@@ -2,11 +2,20 @@
 ### SysAdmin y Desarrollador Web/Móvil
 
 
-Soy un Administrador de Sistemas Informaticos en Red y aprendo programación por mi cuenta.
+Soy Técnico Superior en  Administración de Sistemas Informaticos en Red y programador. Además, ahora estudio un master de ciberseguridad.
 
-Aquí tendrás el código de los pequeños proyectos o programas que se me ocurren mientras recorro los duros caminos de algunos de los lenguajes mas populares.
+En mi GitHub encontrarás de todo: Desde pequeños proyectos de algunos de los lenguajes de programación mas populares a PoC de CVEs que pruebe o pequeños scripts de Linux/Windows para configuración.
 
-Ahora mismo estoy aprendiendo:
+También algunos apuntes sobre algunos temas que vea interesantes dentro del mundo de la informática.
+
+Plataformas/tecnologías que conozco:
+
+### Sistemas Operativos
+
+[![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+[![MacOS](https://img.shields.io/badge/Mac_OS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+
 
 ### Apps móviles
 
@@ -22,6 +31,8 @@ Ahora mismo estoy aprendiendo:
 [![HTML](https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white&labelColor=101010)]()
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]()
 [![Wordpress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 
 ### BackEnd
@@ -30,16 +41,28 @@ Ahora mismo estoy aprendiendo:
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Symfony 5](https://img.shields.io/badge/Symfony_5-202020?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()
 
 
+### Documentación
+</br>
+
+[![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
+
+### Ciber Seguridad
+<br/>
+
+
+
 ## Mis redes:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@AdrnEstvz-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/AdrnEstvz)
-[![Instagram](https://img.shields.io/badge/Instagram-@adrnestvz-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/adrnestvz)
+[![Twitter](https://img.shields.io/badge/Twitter-@adrestrod123-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/adrestrod123)
+[![Instagram](https://img.shields.io/badge/Instagram-@Haru__123__-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Haru_123_)
 <br/>
-[![Reddit](https://img.shields.io/badge/Reddit-Haru_123-FF4500?style=?style=flat&logo=reddit&logoColor=white&labelColor=101010)](https://www.reddit.com/user/Haru_123)
+[![Reddit](https://img.shields.io/badge/Reddit-Haru__123-FF4500?style=?style=flat&logo=reddit&logoColor=white&labelColor=101010)](https://www.reddit.com/user/Haru_123)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Adrian_Estevez-FE7A16?style=?style=flat&logo=stackoverflow&logoColor=white&labelColor=101010)](https://es.stackoverflow.com/users/188411/haru)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian_Estevez_Rodriguez-0077B5?style=?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adrian-estevez-rodriguez-101364183)
