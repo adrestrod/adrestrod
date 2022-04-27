@@ -46,10 +46,10 @@ Ahora mismo estoy aprendiendo:
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <img width="450" height="150" img align="left" alt="Adrestrod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adrestrod&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide=issues" class="responsive" />
+        <img width="450" height="150" img align="left" alt="Adrestrod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adrestrod&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide=issues&locale=es" class="responsive" />
     </div>
     <div style="display: inline-block;">
-        <img width="350" height="150" img align="center" alt="Adrestrod's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrestrod&theme=radical&hide_border=false&layout=compact&count_private=true" class="responsive"/>
+        <img width="350" height="150" img align="center" alt="Adrestrod's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrestrod&langs_count=6&theme=synthwave&hide_border=false&layout=compact&count_private=true&locale=es" class="responsive"/>
     </div>
 </div>
 
