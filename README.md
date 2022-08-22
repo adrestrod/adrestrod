@@ -69,3 +69,14 @@ Plataformas/tecnologías que conozco:
 [![Reddit](https://img.shields.io/badge/Reddit-Haru__123-FF4500?style=?style=flat&logo=reddit&logoColor=white&labelColor=101010)](https://www.reddit.com/user/Haru_123)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Adrian_Estevez-FE7A16?style=?style=flat&logo=stackoverflow&logoColor=white&labelColor=101010)](https://es.stackoverflow.com/users/188411/haru)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian_Estevez_Rodriguez-0077B5?style=?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adrian-estevez-rodriguez-101364183)
+
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <img width="450" height="150" img align="left" alt="Adrestrod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adrestrod&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide=issues&locale=es" class="responsive" />
+    </div>
+    <div style="display: inline-block;">
+        <img width="350" height="150" img align="center" alt="Adrestrod's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrestrod&langs_count=6&theme=synthwave&hide_border=false&layout=compact&count_private=true&locale=es" class="responsive"/>
+    </div>
+</div>
+
