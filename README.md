@@ -57,11 +57,6 @@ Plataformas/tecnologías que conozco:
 
 [![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
 
-### Ciber Seguridad
-<br/>
-
-
-
 ## Mis redes:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@adrestrod123-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/adrestrod123)
