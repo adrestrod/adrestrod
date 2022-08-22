@@ -2,9 +2,9 @@
 ### SysAdmin y Desarrollador Web/Móvil
 
 
-Soy Técnico Superior en  Administración de Sistemas Informaticos en Red y programador. Además, ahora estudio un master de ciberseguridad.
+Soy Técnico Superior en Administración de Sistemas Informáticos en Red y programador. Además, ahora estudio un máster de ciberseguridad.
 
-En mi GitHub encontrarás de todo: Desde pequeños proyectos de algunos de los lenguajes de programación mas populares a PoC de CVEs que pruebe o pequeños scripts de Linux/Windows para configuración.
+En mi GitHub encontrarás de todo: Desde pequeños proyectos de algunos de los lenguajes de programación más populares a PoC de CVEs que pruebe o pequeños scripts de Linux/Windows para configuración.
 
 También algunos apuntes sobre algunos temas que vea interesantes dentro del mundo de la informática.
 
