@@ -12,15 +12,15 @@ Plataformas/tecnologías que conozco:
 
 ### Sistemas Operativos
 
-[![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+[![Windows](https://img.shields.io/badge/Microsoft-0078D6?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=101010)]()
 [![MacOS](https://img.shields.io/badge/Mac_OS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 
 ### Seguridad defensiva (Blue Team)
 </br>
 
-[![Active Directory](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
-[![QRadar](https://img.shields.io/badge/ibm-0078D6?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)]()
+[![Active Directory](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=101010)]()
+[![QRadar](https://img.shields.io/badge/QRadar-0078D6?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)]()
 [![GrayLog](https://img.shields.io/badge/graylog-0078D6?style=for-the-badge&logo=graylog&logoColor=white&labelColor=101010)]()
 
 ### Apps móviles
