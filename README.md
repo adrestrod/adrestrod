@@ -2,7 +2,7 @@
 ### SysAdmin y Desarrollador Web/Móvil
 
 
-Soy Técnico Superior en Administración de Sistemas Informáticos en Red y programador. Además, ahora estudio un máster de ciberseguridad.
+Soy Técnico Superior en Administración de Sistemas Informáticos en Red y programador. Trabajo como consultor de ciberseguridad, administrado un SIEM.
 
 En mi GitHub encontrarás de todo: Desde pequeños proyectos de algunos de los lenguajes de programación más populares a PoC de CVEs que pruebe o pequeños scripts de Linux/Windows para configuración.
 
@@ -16,6 +16,12 @@ Plataformas/tecnologías que conozco:
 [![MacOS](https://img.shields.io/badge/Mac_OS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 
+### Seguridad defensiva (Blue Team)
+</br>
+
+[![Active Directory](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+[![QRadar](https://img.shields.io/badge/ibm-0078D6?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)]()
+[![GrayLog](https://img.shields.io/badge/graylog-0078D6?style=for-the-badge&logo=graylog&logoColor=white&labelColor=101010)]()
 
 ### Apps móviles
 
